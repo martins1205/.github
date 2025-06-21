@@ -75,5 +75,5 @@ Profile ReadMe for Martins Adegbaju
 
 ---
 
-> *“### Turning data into decisions through insight and intelligence.”*
+> *“Turning data into decisions through insight and intelligence.”*
 
