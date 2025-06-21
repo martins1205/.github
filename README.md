@@ -43,13 +43,14 @@ Profile ReadMe for Martins Adegbaju
 
 ### 📌 Featured Projects
 
-- 🧠 **Fake News Detection Using Deep Learning**  
-  *NLP pipeline for classifying misinformation with explainable AI*  
-  [View on GitHub](https://github.com/martins1205)
+- 🧠 **RISK ASSESSMENT IN FAKE NEWS DETECTION USING ADVANCED NLP AND DEEP LEARNING**  
+  *The goal is to not only label content as genuine or deceptive but also to quantify prediction certainty and potential for societal harm*  
+  [View on GitHub]](https://github.com/martins1205/RISK-ASSESSMENT-IN-FAKE-NEWS-DETECTION-USING-ADVANCED-NLP-AND-DEEP-LEARNING))
+)
 
 - 📈 **Data Storytelling with Power BI**  
   *Interactive dashboards for public health and finance*  
-  [View on Power BI (link optional)](#)
+  [View on Power BI ([link optional](https://liveteesac-my.sharepoint.com/:u:/r/personal/q2207262_live_tees_ac_uk/Documents/big%20data%20ica/WINE%20WORK.pbix?csf=1&web=1&e=c4RILY)))]
 
 - 🏅 **Kaggle Notebooks**  
   *Exploratory data analysis and ML models for competitions*  
@@ -59,8 +60,10 @@ Profile ReadMe for Martins Adegbaju
 
 ### ✍️ Latest Articles
 
-- [Why NLP Matters in Fake News Detection](https://medium.com/@gbajumartins)  
-- [Building an End-to-End ML Pipeline in Python](https://medium.com/@gbajumartins)
+- [Predicting Google Stock Prices with Machine Learning: A Deep Dive into GRU Models](https://medium.com/@gbajumartins/predicting-google-stock-prices-with-machine-learning-a-deep-dive-into-gru-models-a9dbddc469bf) 
+- [Solana Price Prediction App: Unveiling Crypto Trends with Machine Learning](https://medium.com/@gbajumartins/solana-price-prediction-app-unveiling-crypto-trends-with-machine-learning-3cd201c5db1a)
+- [Enhancing Red Wine Quality Prediction: Leveraging Machine Learning for Multiclass Classification and Data Imbalance Management](https://medium.com/@gbajumartins/enhancing-red-wine-quality-prediction-leveraging-machine-learning-for-multiclass-classification-098cc3daaf3f)
+- [How can sales be optimized through data-driven insights from the wine dataset?]([https://medium.com/@gbajumartins/in-an-effort-to-optimize-wine-sales-and-leverage-data-driven-insights-we-embarked-on-a-b276ca2050b8)]
 
 ---
 
