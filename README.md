@@ -1,4 +1,4 @@
-# .github
+# MARTINSADEGBAJU
 Profile ReadMe for Martins Adegbaju
 <h2 align="center">Hi, I'm Martins Adegbaju 👋</h2>
 
