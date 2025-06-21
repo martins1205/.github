@@ -63,7 +63,7 @@ Profile ReadMe for Martins Adegbaju
 - [Predicting Google Stock Prices with Machine Learning: A Deep Dive into GRU Models](https://medium.com/@gbajumartins/predicting-google-stock-prices-with-machine-learning-a-deep-dive-into-gru-models-a9dbddc469bf) 
 - [Solana Price Prediction App: Unveiling Crypto Trends with Machine Learning](https://medium.com/@gbajumartins/solana-price-prediction-app-unveiling-crypto-trends-with-machine-learning-3cd201c5db1a)
 - [Enhancing Red Wine Quality Prediction: Leveraging Machine Learning for Multiclass Classification and Data Imbalance Management](https://medium.com/@gbajumartins/enhancing-red-wine-quality-prediction-leveraging-machine-learning-for-multiclass-classification-098cc3daaf3f)
-- [How can sales be optimized through data-driven insights from the wine dataset?]([https://medium.com/@gbajumartins/in-an-effort-to-optimize-wine-sales-and-leverage-data-driven-insights-we-embarked-on-a-b276ca2050b8)]
+- [How can sales be optimized through data-driven insights from the wine dataset?](https://medium.com/@gbajumartins/in-an-effort-to-optimize-wine-sales-and-leverage-data-driven-insights-we-embarked-on-a-b276ca2050b8)
 
 ---
 
@@ -75,5 +75,5 @@ Profile ReadMe for Martins Adegbaju
 
 ---
 
-> *“Turning data into decisions through insight and intelligence.”*
+> *“### Turning data into decisions through insight and intelligence.”*
 
